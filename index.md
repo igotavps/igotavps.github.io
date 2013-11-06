@@ -8,8 +8,3 @@ This page will be an ongoing project/list of suggestions on purposes to put on a
 If you don't know what any of this means, that's okay click [here](vps.md). 
 
 ---
-
-| Communications |
-| -------------- |
-| mumble	|	http://mumble.org|
-|irssi	|	irssi.org|
