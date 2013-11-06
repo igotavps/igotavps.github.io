@@ -10,7 +10,7 @@ If you don't know what any of this means, that's okay click [here](vps.md).
 ---
 
 | Communications |
-| -------------- |
+| -------------- | -------------- |
 | service |	description |
-| mumble	|	http://mumble.org|
-|irssi	|	irssi.org|
+| mumble | http://mumble.org |
+|irssi | irssi.org |
