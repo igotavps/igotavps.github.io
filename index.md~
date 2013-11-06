@@ -1,2 +1,3 @@
 [gimmick:theme](amelia)
-# Hello world! #
+# I just got a VPS... #
+
